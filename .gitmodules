@@ -1,0 +1,3 @@
+[submodule "content"]
+	path = content
+	url = ssh://git@codeberg.org/markvu2607/pkm.git
